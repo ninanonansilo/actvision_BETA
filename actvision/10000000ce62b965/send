@@ -1,0 +1,29 @@
+﻿{
+	"1": {
+		"time": {
+			"year": "2021",
+			"month": "8",
+			"day": "16",
+			"hour": "22",
+			"minute": "47",
+			"second": "45"
+		},
+		"detail_info": {
+			"x": "0",
+			"y": "0",
+			"width": "80",
+			"height": "64",
+			"scroll_fix": "0",
+			"play_speed": "7",
+			"play_count": "2",
+			"play_second": "0",
+			"font_name": "NotoSansCJK-Regular.ttc",
+			"font_size": "64",
+			"thickness_italics": "0",
+			"red_green_blue": "(61, 154, 35)"
+		},
+		"type": "string",
+		"action": "play",
+		"title": "dsadada"
+	}
+}

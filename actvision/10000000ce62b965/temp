@@ -1,0 +1,36 @@
+﻿{
+	"Pattern": "5",
+	"Brightness_Control": {
+		"Mode": "-1",
+		"Brightness": "10",
+		"CDS_Value": "-1",
+		"Auto_Brightness": {
+			"min": "-1",
+			"max": "-1"
+		},
+		"Auto_CDS": {
+			"min": "-1",
+			"max": "-1"
+		}
+	},
+	"Power_Control": {
+		"Manual_ONOFF": "-1",
+		"Mode": "-1",
+		"Auto_ON": {
+			"hour": "-1",
+			"minute": "-1"
+		},
+		"Auto_OFF": {
+			"hour": "-1",
+			"minute": "-1"
+		}
+	},
+	"Time": [
+		"2021",
+		"08",
+		"16",
+		"20",
+		"46",
+		"44"
+	]
+}
